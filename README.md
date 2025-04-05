@@ -6,7 +6,7 @@
 <img align="center" alt="Coding" width="700" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QRQ5OhW_378gh7F2eAPuGw.gif">
 
 <div style="font-family: 'Times New Roman', Times, serif;"> 
-  <p>👩‍💻 <strong> Welcome to my GitHub — a sandbox for experiments and iterations</strong></p>
+  <p><strong> Welcome to my GitHub — a sandbox for experiments and iterations</strong></p>
 
   <p>I wrangle data pipelines, design robust architectures, and dabble in scalable solutions across domains like analytics and automation.</p>
 
