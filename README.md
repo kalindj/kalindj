@@ -1,6 +1,5 @@
 <h1 align="center">Hi!, I'm Kalind Joshi</h1>
 <h3 align="center">Data Aalyst | Data Engineer</h3>
-<h3 align="center">MS in Information Systems</h3>
 <hr>
 <hr>
 <img align="center" alt="Coding" width="700" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QRQ5OhW_378gh7F2eAPuGw.gif">
