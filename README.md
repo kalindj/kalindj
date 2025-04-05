@@ -3,24 +3,18 @@
 <h3 align="center">MS in Information Systems</h3>
 <hr>
 <hr>
-<img align="right" alt="Coding" width="150" src="https://media.licdn.com/dms/image/v2/C4D22AQGkxY4W7PAHeg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1672914402202?e=2147483647&v=beta&t=E3z6Dkr4UB7msQg4zcLtCXRvNCgCrSFDK63d7ZkTTUE">
+<img align="right" alt="Coding" width="150" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QRQ5OhW_378gh7F2eAPuGw.gif">
 
 <div style="font-family: 'Times New Roman', Times, serif;"> 
-  <p>👩‍💻 <strong> This is a place where curiosity meets code, and the occasional brain fart happens.</strong></p>
+  <p>👩‍💻 <strong> Welcome to my GitHub — a sandbox for experiments and iterations</strong></p>
 
-  <p>Welcome to my GitHub, where I experiment, iterate, and occasionally break things in the name of learning! 
-  I juggle bioinformatics tools, cancer genomics, scRNA workflows, and Nextflow pipelines while exploring the ever-evolving world of Bioinformatics.</p>
+  <p>I wrangle data pipelines, design robust architectures, and dabble in scalable solutions across domains like analytics and automation.</p>
 
-  <p>I’m passionate about the intersection of machine learning and omics data, and I believe LLMs are reshaping how we approach complex problems in biology. 
-  Here, you’ll find my journey of trying, failing, and (hopefully) succeeding as I push boundaries and embrace new challenges.</p>
+  <p>I’m passionate about building bridges between raw data and real-world insights. Lately, I’ve been exploring how large language models and intelligent systems are redefining the data engineering landscape.</p>
 
   <p><strong>Got a cool idea? Let’s tinker and build something awesome together! 🚀</strong></p>
 </div>
 <hr>
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
