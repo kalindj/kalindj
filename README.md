@@ -3,7 +3,7 @@
 <h3 align="center">MS in Information Systems</h3>
 <hr>
 <hr>
-<img align="right" alt="Coding" width="150" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QRQ5OhW_378gh7F2eAPuGw.gif">
+<img align="centre" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QRQ5OhW_378gh7F2eAPuGw.gif">
 
 <div style="font-family: 'Times New Roman', Times, serif;"> 
   <p>👩‍💻 <strong> Welcome to my GitHub — a sandbox for experiments and iterations</strong></p>
